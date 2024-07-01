@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Teng Ma (马腾)
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Teng
+last_name: Ma
 
 # Status emoji
 status:
@@ -20,69 +20,48 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Senior Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Alibaba Cloud
+    url: https://www.alibabacloud.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:stmatengss@163.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/stmatengss
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/stmatengss
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/teng-ma-69a0a8115/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=8zXo0KMAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Remote Direct Memory Access (RDMA)
+  - CXL (memory pooling and sharing)
+  - Kernel scheduling
+  - Non-Volatile Memory (NVM),
+  - Key-value Store
+  - GPU
+  - vLLM
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: PhD Computer Science
+    institution: Tsinghua University
+    date_start: 2016-08
+    date_end: 2021-06
+  - area: BSc Computer Science
+    institution: University of Science and Technology Beijing (USTB)
+    date_start: 2012-08
+    date_end: 2016-06
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -141,13 +120,6 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +155,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I was born in Anhui, China. I received my Bachelor degree in computer science from University of Science and Technology Beijng, China in July 2016 and my PhD degree in computer science from Tsinghua University, China in June 2021. During my Phd, my research advisors are Prof. Yongwei Wu and Prof. Kang Chen, and I work closely with Dr. Mingxing Zhang and Prof. Xuehai Qian. I have spent half a year as a visiting student at Prof. Shan Lu’s group at the University of Chicago.
+Currently, I have joined Alibaba as a researcher. My research interests include Remote Direct Memory Access (RDMA), CXL (memory pooling and sharing), Kernel scheduling, Non-Volatile Memory (NVM), Out-of-core Graph Processing, and key-value store systems.
